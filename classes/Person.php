@@ -14,4 +14,3 @@
 			return "A person says $str";
 		}
 	}
-?>

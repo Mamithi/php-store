@@ -6,5 +6,3 @@
 	$person->lastname = 'Doe';
 	echo $person->firstname . ' ' .$person->hello('World');
 
-
-?>
